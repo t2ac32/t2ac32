@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ![10](rainbow_gradient_1500x50.png)
 # Servus! 👋 Hola! im Tracer.
-<br>
 
 ### Im a : 
 * iOS

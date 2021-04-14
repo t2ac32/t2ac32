@@ -15,10 +15,22 @@ Here are some ideas to get you started:
 -->
 
 ![10](rainbow_gradient_1500x50.png)
-### Servus! 👋 Hola! im Tracer.
-### Im a : iOS/bioengineer/Machine learning Engineer or something like that.
+# Servus! 👋 Hola! im Tracer.
+<br>
 
-At some point i studied:
+### Im a : iOS/bioengineer/Machine learning Engineer or something like that.
+<br>
+
+## I'm currently studying:
+
+* coding challenges
+* raspberrypi
+* German 
+
+<br>
+
+## At some point i studied:    
+
 * Python
 * Swift 
 * C++
@@ -30,19 +42,21 @@ I **love** to hear/make music (Tracer, The guy with a crystal gameboy. The screw
 I **play** drums, synth and videogames.    
 I am **attracted** to collecting stuff.    
 I **collect** ... loading.    
-
+<br>
 
 ![10](rainbow_gradient_1500x50.png)
+<br><br>
 
-
-![Tracer's GitHub stats](https://github-readme-stats.vercel.app/api?username=t2ac32&hide=contribs,prs&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t2ac32&layout=compact&theme=tokyonight)](https://github.com/t2ac32/github-readme-stats)
-
+![Tracer's GitHub stats](https://github-readme-stats.vercel.app/api?username=t2ac32&hide=contribs,prs&theme=nord&show_icons=true)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t2ac32&layout=compact&theme=nord)](https://github.com/t2ac32/github-readme-stats)
+<br><br>
 
 ![10](rainbow_gradient_1500x50.png)    
-    
+<br>    
 ## 🖤 Get in touch: 
 * ✨ Twitter: https://twitter.com/init_tracer
 * ✨ Instagram: https://instagram.com/t2ac32     
-
+<br>
      
 ![10](rainbow_gradient_1500x50.png)

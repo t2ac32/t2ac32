@@ -29,7 +29,6 @@ or something like that.
 * coding challenges
 * raspberrypi
 * German 
-
 <br>
 
 ## At some point I studied:    

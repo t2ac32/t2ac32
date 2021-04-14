@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 # Servus! 👋 Hola! im Tracer.
 <br>
 
-### Im a : iOS/bioengineer/Machine learning Engineer or something like that.
-<br>
+### Im a : 
+* iOS
+* bioengineer
+* Machine learning Engineer
+or something like that.
 
 ## I'm currently studying:
 
@@ -29,7 +32,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## At some point i studied:    
+## At some point I studied:    
 
 * Python
 * Swift 
@@ -53,10 +56,9 @@ I **collect** ... loading.
 <br><br>
 
 ![10](rainbow_gradient_1500x50.png)    
-<br>    
 ## 🖤 Get in touch: 
 * ✨ Twitter: https://twitter.com/init_tracer
 * ✨ Instagram: https://instagram.com/t2ac32     
 <br>
-     
+
 ![10](rainbow_gradient_1500x50.png)

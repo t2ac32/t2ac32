@@ -25,13 +25,13 @@ or something like that.
 
 ## I'm currently studying:
 
+* Python
+* SwiftUI
 * coding challenges
-* raspberrypi
 * German 
 
 ## At some point I studied:    
 
-* Python
 * Swift 
 * C++
 * Java

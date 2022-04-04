@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 ![10](rainbow_gradient_1500x50.png)
 # Servus! 👋 Hola! im Tracer.
-
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-betamax.svg)](https://forthebadge.com)
 ### Im a : 
 * iOS
 * bioengineer

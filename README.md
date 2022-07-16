@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-betamax.svg)](https://forthebadge.com)
 
-<img align='right' src="umi_gif_300dpii.gif" width="230">
-![](umi_gif_300dpi.gif)
+<img align="right" src="umi_gif_300dpi.gif" alt="umi-gif" style="width:300px;"/>
+
 
 ### Im a : 
 * iOS

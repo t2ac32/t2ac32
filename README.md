@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-betamax.svg)](https://forthebadge.com)
+
+<img align='right' src="umi_gif_300dpii.gif" width="230">
+![11](umi_gif_300dp.gif)
+
 ### Im a : 
 * iOS
 * bioengineer
